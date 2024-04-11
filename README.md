@@ -7,14 +7,11 @@ Elsa B. Girard a,b, Emilie A. Didaskalou c, Andi M. A. Pratama d, Carolina Rattn
 
 
 a Naturalis Biodiversity Center, Darwinweg 2, 2333 CR Leiden, the Netherlands
-
 b IBED, University of Amsterdam, Sciencepark 904, 1098 XH Amsterdam, the Netherlands
-
 c CML, University of Leiden, Einsteinweg 2, 2333 CC Leiden, the Netherlands
-
 d Marine Science Department, Faculty of Marine Science and Fisheries, Hasanuddin University, Jl. Perintis Kemerdekaan Km. 10 Tamalenrea, Makassar 90245, Indonesia
-
 e MARUM, University of Bremen, Leobener Str. 8, 28359 Bremen, Germany
+
 
 ## Corresponding author: 
 Elsa B. Girard\
