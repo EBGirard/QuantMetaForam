@@ -27,8 +27,12 @@ Describing living community compositions is essential to monitor ecosystems unde
 ## Key words: 
 Quantitative metabarcoding, COI, foraminifera, coral reef, monitoring
 
-# Supplementary files (R code and dataset): How-to-do
+# R code and dataset: How-to-do
 1. Download the dataset folder and the R code
 2. Open R studio and the R code file
 3. Run the section or the analysis of the code that is of interest
 4. Cite us, thank you :-)
+
+# Citation
+
+Girard, E.B., Didaskalou, E.A., Pratama, A.M.A., Rattner, C., Morard, R., Renema, W., 2024. Quantitative assessment of reef foraminifera community from metabarcoding data. Mol. Ecol. Resour. 24, e14000.
